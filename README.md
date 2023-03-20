@@ -8,8 +8,8 @@ If you modify the mesh files or make tweaks in Fusion 360 and are willing to con
 ## Main Enclosure
 
 BoM:
-3 - M2x3 threaded inserts (like [these](https://www.amazon.com/dp/B0B8GN63S2) or similar)
-3 - M2x6 screws
+* 3 - M2x3 threaded inserts (like [these](https://www.amazon.com/dp/B0B8GN63S2) or similar)
+* 3 - M2x6 screws
 
 The two threaded inserts in the bottom can actually be up to 6mm in the original 603449 design, but M2x3 works in all 3 places which lowers the unique part count and makes moding for a slimmer battery have one less thing to worry about. If building a version for a thinner battery (<5mm) the two M2x6 screws will need to be substituted for something a bit shorter.
 
@@ -21,7 +21,7 @@ Connect the battery to the PCB, then insert the PCB into the top part, followed 
 The battery fits in the bottom with the cables facing the exit cutout.
 ![pcb-battery-installed](images/pcb-battery-installed.png)
 
-**NOTE** Battery connector in the image above was intentionally cross-wired to prevent having to repin the connector which was backwards. The positive voltage wire should be connected to the pin furthest from the on switch. There is a '+' marked on the top silksreen.
+**NOTE:** Battery connector in the image above was intentionally cross-wired to prevent having to repin the connector which was backwards. The positive voltage wire should be connected to the pin furthest from the on switch. There is a '+' marked on the top silksreen.
 
 There is a bit of space in the housing to hold working slack on the battery cables, but if they are very long you may need to shorten them. If you do be careful and only cut one wire at a time, covering everything with heat shrink before cutting and soldering the other wire.
 
