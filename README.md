@@ -35,4 +35,17 @@ My full set!
 
 ## Extension Enclosure
 
-Not yet designed, having trouble with the connectors so putting that off until I can get the rest of the setup working and actually use this thing a bit :D
+BoM:
+* 2 - M2x3 inserts (like [these](https://www.amazon.com/dp/B0B8GN63S2) or similar)
+* 2 - M2x8 screws
+
+Enclosure is super simple since there was no battery to worry about. Could have gotten away with one screw and an alignment pin, but 2 screws feels a bit more secure for something holding the case on.
+
+Top Housing:
+![extension-top](images/extension-top-housing-render.png)
+
+Bottom Housing: heat press install two M2x3 threaded inserts.
+![extension-bottom](images/extension-top-bottom-render.png)
+
+Assembled: Secure the top to the bottom, sandwiching the extension PCB, with two M2x8 screws.
+![assembled](images/extension-assembled-render.png)
